@@ -6,6 +6,7 @@ export default {
 		//	this.myVar1 = [1,2,3]
 	},
 	async myFun2 () {
+		console.log('test')
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 	}
